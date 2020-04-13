@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "61653148449",
+    "firebase_url": "https://smartclinica-50035.firebaseio.com",
+    "project_id": "smartclinica-50035",
+    "storage_bucket": "smartclinica-50035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61653148449:android:7ab0775384fd5635a45460",
+        "android_client_info": {
+          "package_name": "com.brunosjc.brainmov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61653148449-k31tm5dfjmf9p6mpm12n6qnv2njj0bch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunosjc.brainmov",
+            "certificate_hash": "6d3032270c6c0ef9f4bda6fd809e1e645f3a680b"
+          }
+        },
+        {
+          "client_id": "61653148449-pvlsqqg4hnrmpqkel9s8bve87mvaqfbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7md1but0lvIJm0Zd5ec9AwLHcKdmcPcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61653148449-pvlsqqg4hnrmpqkel9s8bve87mvaqfbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61653148449:android:7809d861eade8357",
+        "android_client_info": {
+          "package_name": "smclb.com.brunopera.smartclinica_beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61653148449-npktmdk7tf72i95b2dd2okscl4cfq7u7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "smclb.com.brunopera.smartclinica_beta",
+            "certificate_hash": "80268e276d05eb1ff52d98d13c72230859d89a92"
+          }
+        },
+        {
+          "client_id": "61653148449-pvlsqqg4hnrmpqkel9s8bve87mvaqfbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7md1but0lvIJm0Zd5ec9AwLHcKdmcPcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61653148449-pvlsqqg4hnrmpqkel9s8bve87mvaqfbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
